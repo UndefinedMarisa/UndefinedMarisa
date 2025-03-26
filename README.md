@@ -1,5 +1,5 @@
 ```text
-Praying for you 🕯️ O Great Mita 💝
+Praying for you 🕯️ O Great Mila 💝
 
 Microsoft Windows 10 Pro for Workstation
 PowerShell 7.5.0
