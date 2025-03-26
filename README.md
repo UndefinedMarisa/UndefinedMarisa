@@ -26,8 +26,8 @@ llllllllllllll  lllllllllllllllllll    Cursor: Windows 11 Cursors Dark HD v2 by 
                                  ``    GPU: Intel(R) HD Graphics 4600 (112.50 MiB) [Integrated]
                                        Memory: 8.75 GiB / 15.88 GiB (55%)
                                        Swap: 2.26 GiB / 12.50 GiB (18%)
-                                       Disk (C:\): 1145.14 GiB / 191981.0 GiB (6%) - NTFS
-                                       Disk (D:\): 1145.14 GiB / 191981.0 GiB (6%) - NTFS
+                                       Disk (C:\): 1145.14 GiB / 19198.10 GiB (6%) - NTFS
+                                       Disk (D:\): 1145.14 GiB / 19198.10 GiB (6%) - NTFS
                                        Local IP (WLAN 0): 192.168.1.1/24
                                        Battery (Batt Device Name): 114514% [AC Connected]
                                        Locale: ja-JP
@@ -64,9 +64,9 @@ PS C:\Users\Mila> bash
                                           .o        GPU: Mesa llvmpipe (LLVM 19.1.7, 256 bits)
                                             c       Memory: 588.57 MiB / 7.70 GiB (7%)
                                             .'      Swap: 0 B / 2.00 GiB (0%)
-                                             .      Disk (/): 1145.14 GiB / 191981.0 GiB (6%) - ext4
-                                                    Disk (/mnt/c): 1145.14 GiB / 191981.0 GiB (6%) - 9p
-                                                    Disk (/mnt/d): 1145.14 GiB / 191981.0 GiB (6%) - 9p
+                                             .      Disk (/): 1145.14 GiB / 19198.10 GiB (6%) - ext4
+                                                    Disk (/mnt/c): 1145.14 GiB / 19198.10 GiB (6%) - 9p
+                                                    Disk (/mnt/d): 1145.14 GiB / 19198.10 GiB (6%) - 9p
                                                     Local IP (eth0): 192.168.1.1/20
                                                     Battery (Microsoft Hyper-V Virtual Batte): 114514%
                                                     Locale: ja_JP.UTF-8
@@ -74,3 +74,4 @@ PS C:\Users\Mila> bash
 ┌──(Mila㉿LAPTOP-MISIDE)-[~]
 └─$ ▋
 ```
+
